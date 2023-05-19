@@ -2,7 +2,7 @@
 % Version:            COMSOL 6.1.0.282
 % Date:               May 19 2023, 10:48
 % Table:              Probe Table 1 - 
-% freq (GHz)                                      phi (deg)                                         Electric field norm (V/m), Boundary Probe 1
+freq(GHz)                                      phi(deg)                                         Electric(V/m)
 1                                                 0                                                 0.6787135710144212
 1                                                 29.999999999999996                                0.8051896914471687
 1                                                 59.99999999999999                                 0.810695962021545
