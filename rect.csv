@@ -1,8 +1,4 @@
-% Model,Untitled.mph
-% Version,COMSOL 6.1.0.282
-% Date,"Jun 9 2023, 12:37"
-% Table,Probe Table 1 - 
-% freq (GHz),phi (deg),"Electric field norm (V/m), Domain Probe 1","Electric field norm (V/m), Boundary Probe 1","Electric field norm (V/m), Boundary Probe 2","Electric field norm (V/m), Boundary Probe 3"
+freq (GHz),phi (deg),"Electric field norm (V/m), Domain Probe 1","Electric field norm (V/m), Boundary Probe 1","Electric field norm (V/m), Boundary Probe 2","Electric field norm (V/m), Boundary Probe 3"
 1,0,0.6132021770120776,0.5044048924256553,0.6055078791581735,0.6224286648123711
 1,14.999999999999998,0.6115294444858255,0.504023694140231,0.5882959739961413,0.6206779386966281
 1,29.999999999999996,0.6068712910968884,0.5046141717088264,0.5685631535709992,0.6157071225820656
