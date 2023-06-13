@@ -1,8 +1,4 @@
-% Model,Multi2DJunePPT.mph
-% Version,COMSOL 6.1.0.282
-% Date,"Jun 13 2023, 20:05"
-% Table,Accumulated Probe Table 2 - 
-% r0 (cm),freq (GHz),"Electric field norm (V/m), Point: (-0.10913, -0.11701)","Electric field norm (V/m), Boundary Probe 2","Electric field norm (V/m), Boundary Probe 3","Electric field norm (V/m), Point Probe 2"
+r0 (cm),freq (GHz),"Electric field norm (V/m), Point: (-0.10913, -0.11701)","Electric field norm (V/m), Boundary Probe 2","Electric field norm (V/m), Boundary Probe 3","Electric field norm (V/m), Point Probe 2"
 14.000000000000002,5,0.5193185660107363,0.5845316011316597,0.6014282449467722,0.36298855391365914
 14.000000000000002,6,0.6706191212130413,0.6545616695060832,0.6183458941301431,0.2584187591536625
 14.000000000000002,7,0.9940857600659511,0.676396814487858,0.6543743357283089,0.3273419975298765
