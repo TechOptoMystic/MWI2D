@@ -1,8 +1,4 @@
-% Model,Multi2DJunePPTDetect.mph
-% Version,COMSOL 6.1.0.357
-% Date,"Jun 21 2023, 19:59"
-% Table,Accumulated Probe Table 4 - 
-% x1 (cm),y1 (cm),freq (GHz),"Electric field norm (V/m), Boundary Probe 2","Electric field norm (V/m), Boundary Probe 3","Electric field norm (V/m), Point Probe 2","Electric field norm (V/m), Detector 1","Electric field norm (V/m), Detector 2p","Electric field norm (V/m), Detector 2n","Electric field norm (V/m), Boundary Probe 3n","Electric field norm (V/m), Boundary Probe 4n","Electric field norm (V/m), Boundary Probe 4p",Point average: Electric field norm (V/m)
+x1 (cm),y1 (cm),freq (GHz),"Electric field norm (V/m), Boundary Probe 2","Electric field norm (V/m), Boundary Probe 3","Electric field norm (V/m), Point Probe 2","Electric field norm (V/m), Detector 1","Electric field norm (V/m), Detector 2p","Electric field norm (V/m), Detector 2n","Electric field norm (V/m), Boundary Probe 3n","Electric field norm (V/m), Boundary Probe 4n","Electric field norm (V/m), Boundary Probe 4p",Point average: Electric field norm (V/m)
 -4.5,-4.5,1,0.6299220315368831,0.5767811329424604,0.44396074733584,1.1170383222278935,0.9446708546215996,0.9446708605585361,0.7662763445579155,0.9065608289274979,0.9065607975340098,0.7662762858542046
 -4.5,-4.5,1.1,0.6624491417447669,0.5858392326182045,0.46403537222512137,1.1628572883786077,0.9240334932918174,0.9240335037825417,0.723900719136535,0.9380186100659539,0.9380185935627643,0.7239006597277082
 -4.5,-4.5,1.2000000000000002,0.6922838216296604,0.5982003645891034,0.48073388003199113,1.2044852158026735,0.8897639369577749,0.8897639520922183,0.697799159178713,0.9615304408119228,0.9615304404757686,0.6977991056035429
